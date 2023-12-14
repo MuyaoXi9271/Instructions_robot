@@ -1,9 +1,39 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Instructions_interfaces in robot"
+author: "Muyao Xi (muyao.xi@sund.ku.dk)"
 date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+site: "https://muyaoxi9271.github.io/Instructions_robot/"
 ---
 
-# Down the rabbit-hole
+# Information 
+
+1. Double click $VWorks$ and log in (public secret)
+
+```{r icon of software, echo=FALSE, out.height="20%", out.width="20%"}
+
+knitr::include_graphics("images/icon of software.PNG")
+
+```
+
+2. Initialize the device by employing the file located at **C:\\VWorks Workspace\\Metabolomics\\Device File\96LT w Vac Flt Stn and Cpac_without_collar.dev**
+
+
+3. Select $Form$ as the format of$.VWForm$ by clicking $File$ and select file stored at **C:\\VWorks Workspace\\Metabolomics\\Form File** (you are able to get access them from desktop as well)
+
+4. The way of numbering locations in the labware
+
+```{r locations in labware, echo=FALSE}
+
+knitr::include_graphics("images/positions in the labware.png")
+
+```
+
+
+5. The protocols based in each interface are stored **C:\\VWorks Workspace\\Metabolomics\\Protocol File**
+
+
+
+
+
+
 

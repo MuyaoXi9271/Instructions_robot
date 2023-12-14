@@ -1,0 +1,55 @@
+# Metabolomics
+
+**Information:**
+
+1. In total, two interfaces related to sample preparation related to metabolomics
+
+- one was developed for the project MP151 (FitMum)
+
+- one was developed for the project MP115 (FEASST)
+
+
+
+2. Simply click `Show distribution of plates` for each step to check what plate and where to put them in the labware. And then click the button of the corresponding step after filling in the value for each parameter 
+
+
+3. One iteration can prepare 4 plates of samples
+
+
+
+
+**Steps:**
+
+1. MP151_FitMum
+
+- Separate a clean tip box with 96 tips into 4 tip boxes with 24 tips
+
+- Transfer liquid (e.g. plasma) from cyro-tube into corresponding eppendorf tube and add Emix to eppendorf tube by using additional perpared 24-tip box manually (this additional tip box will be used until completing the entire preparation)
+
+- Transfer supernatant from eppendorf tubes into vials for data acquisition later
+
+```{r interface for metabolomics_1, echo=FALSE}
+
+knitr::include_graphics("images/MP151_1.PNG")
+
+```
+
+
+
+2. MP115_FEASST
+
+- Separate a clean tip box with 96 tips into 4 tip boxes with 24 tips
+
+- Add Emix to eppendorf tube which store samples
+
+- Distribute supernatant in each eppendorf tube into different types of vials 
+
+    - Only tick the type of vial you need
+    - Keep consistent between the name of vial you ticked in the interface and name of vial on the labware
+
+
+```{r interface for metabolomics_2, echo=FALSE}
+
+knitr::include_graphics("images/MP115_1.PNG")
+
+```

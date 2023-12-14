@@ -1,0 +1,25 @@
+# Lipidomics
+
+**Information:**
+
+1. The current interface works for two situations
+
+- The received samples are stored in either E-tubes or Cyro-tubes 
+- The received samples are stored in the 96-well plate
+
+
+2. One excel file (J:\\CBMR\\SUN-CBMR-Metabolomics\\SOPs\\Tempate_LIP_tracking_24-f-b-96.xlsx) could help you track where samples are from 96-well plate to 24-well plate, vice versa
+
+
+3. Simply click `Show distribution of plates` for each step to check what plate and where to put them in the labware. And then click the button of the corresponding step after filling in the value for each parameter 
+
+
+
+4. You will find the steps in the interface for each situation
+
+
+```{r interface for Lipidomics, echo=FALSE}
+
+knitr::include_graphics("images/Lipidomics_1.PNG")
+
+```

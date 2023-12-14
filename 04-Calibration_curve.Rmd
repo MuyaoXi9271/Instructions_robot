@@ -1,0 +1,19 @@
+# Making calibration curve
+
+Prerequisites:
+
+1. Prepare mixture of standards 1 mL and know what is the concentration
+
+2. Prepare the mixture of internal standards ready for making the final serials of points on calibration curve
+
+3. If you would like to add additional solvent to the serials of solutions, please also prepare it in the GC vial
+
+4. How many serials of concentrations and what they are in the calibration curve
+
+5. Then apply the interface to make calibration curve as shown in the image
+
+```{r interface of making calibration curve, echo=FALSE}
+
+knitr::include_graphics("images/Calibration curve_1.PNG")
+
+```
