@@ -18,7 +18,7 @@ knitr::include_graphics("images/icon of software.PNG")
 2. Initialize the device by employing the file located at **C:\\VWorks Workspace\\Metabolomics\\Device File\96LT w Vac Flt Stn and Cpac_without_collar.dev**
 
 
-3. Select $Form$ as the format of$.VWForm$ by clicking $File$ and select file stored at **C:\\VWorks Workspace\\Metabolomics\\Form File** (you are able to get access them from desktop as well)
+3. Select $Form$ as the format of$.VWForm$ by clicking $File$ in the Menubar and select file stored at **C:\\VWorks Workspace\\Metabolomics\\Form File** (you are able to get access them from desktop as well)
 
 4. The way of numbering locations in the labware
 
