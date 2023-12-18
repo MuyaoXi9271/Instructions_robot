@@ -1,6 +1,6 @@
 --- 
 title: "Instructions_interfaces in robot"
-author: "Muyao Xi (muyao.xi@sund.ku.dk)"
+author: "Muyao Xi (muyao.xi@sund.ku.dk)\nMatthias Mattanovich (matthias.mattanovich@sund.ku.dk)"
 date: "`r Sys.Date()`"
 site: "https://muyaoxi9271.github.io/Instructions_robot/"
 ---
